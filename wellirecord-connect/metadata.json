@@ -1,0 +1,5 @@
+{
+  "name": "WelliRecord Connect",
+  "description": "A secure interoperability layer for global EHR ecosystems, connecting clinics, labs, and identity systems.",
+  "requestFramePermissions": []
+}
